@@ -46,7 +46,7 @@ cd qr-code-generator
 
 ## Usage
 
-1. Open the QR Code Generator in your web browser by accessing the [live demo](https://github.com/Webmakerhardik/QR-Generator) or hosting it locally as described in the Installation section.
+1. Open the QR Code Generator in your web browser by accessing the [live demo](https://webmakerhardik.github.io/QR-Generator/) or hosting it locally as described in the Installation section.
 
 2. Enter the data for which you want to generate a QR code in the input field.
 
