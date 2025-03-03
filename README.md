@@ -17,7 +17,7 @@ QR Code Generator is a simple web application that allows you to generate QR cod
 
 ## Demo
 
-You can access the live demo of the QR Code Generator [here](https://github.com/Webmakerhardik/QR-Generator).
+You can access the live demo of the QR Code Generator [here](https://webmakerhardik.github.io/QR-Generator/).
 
 ## Features
 
